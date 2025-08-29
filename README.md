@@ -1,6 +1,6 @@
  Regression-ML
 
-A simple **Linear Regression model** to predict house prices using the Boston Housing dataset.
+A simple **Linear Regression model** to predict house prices using the California housing dataset.
 
  Requirements
 - Python 3.x
